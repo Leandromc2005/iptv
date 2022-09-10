@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="duración del video" tvg-logo="https://pics.filmaffinity.com/Thor_Love_and_Thunder-566116133-large.jpg" group-title="Estreno",Thor amor y trueno.
+https://vd294.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1662931269898&srcIp=186.101.15.37&srcAg=CHROME_ANDROID&ms=185.226.52.44&type=4&sig=iC7r4rQ3viw&ct=8&urls=45.136.22.13&clientType=0&id=3018582067888
+#EXTM3U
+#EXTINF:-1 tvg-id="duración del video" tvg-logo="" group-title="Estreno",Samaritama.
+https://delivery220.akamai-cdn-content.com/hls2/01/06905/6oem59xpxote_,l,n,.urlset/master.m3u8?t=zVIOgDs90VZzXXmwAZvPfxvgXsMMubjIhqowUQh5S6M&s=1662850902&e=10800&f=34525497&srv=sto109&client=97.179.40.55
+#EXTM3U
+#EXTINF:-1 tvg-id="duración del video" tvg-logo="" group-title="Estreno",Bestia.
+https://delivery427.akamai-cdn-content.com/hls2/01/07371/47i2h7k6fy09_n/index-v1-a1.m3u8?t=ptOxFmF-DTTbu9YPH8A_ML4Ctu7JsOpoiGf1B7CzWHI&s=1662851095&e=10800&f=36856596&srv=sto124&client=97.179.40.55
+#EXTM3U
+#EXTINF:-1 tvg-id="duración del video" tvg-logo="" group-title="Estreno",Dragón ball .
+https://delivery294.akamai-cdn-content.com/hls2/01/07083/kamo2yze3khr_l/index-a1.m3u8?t=N3AY1amswW-W5Kji4R4WtBjGBMbqupTD5EOmwh4-YiA&s=1662851178&e=10800&f=35416897&srv=inhzpmcywqmlxnompcsb&client=97.179.40.55
+#EXTM3U
+#EXTINF:-1 tvg-id="duración del video" tvg-logo="" group-title="Estreno",black panther .
+https://f4h4he.cfeucdn.com/silverlight/secip/40141/27947/seKueh5DBba8PDmFUbs7pw/MTU3LjEwMC45My4yMw==/1662872899/hls-vod-s005/flv/api/files/videos/2021/07/12/16260642413ghi7.mp4.m3u8
